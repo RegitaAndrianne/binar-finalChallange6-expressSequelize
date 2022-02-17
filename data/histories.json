@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "username": "regita",
+    "first_name": "regita",
+    "last_name": "andri",
+    "score": 80
+},
+{
+    "id": 2,
+    "username": "andrianne",
+    "first_name": "andrianne",
+    "last_name": "regi",
+    "score": 100
+},
+{
+    "id": 3,
+    "username": "123oke",
+    "first_name": "eko",
+    "last_name": "oke",
+    "score": 40
+}]

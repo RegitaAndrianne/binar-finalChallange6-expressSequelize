@@ -1,0 +1,24 @@
+[{
+    "id": 1,
+    "first_name": "regita",
+    "last_name": "andri",
+    "email": "regita@gmail.com",
+    "gender": "female",
+    "birthdate": "1997-06-12"
+},
+{
+    "id": 2,
+    "first_name": "andrianne",
+    "last_name": "regi",
+    "email": "andrianne@gmail.com",
+    "gender": "male",
+    "birthdate": "1996-03-12"
+},
+{
+    "id": 3,
+    "first_name": "eko",
+    "last_name": "oke",
+    "email": "eko@gmail.com",
+    "gender": "male",
+    "birthdate": "1995-07-11"
+}]

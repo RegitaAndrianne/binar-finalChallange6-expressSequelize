@@ -1,0 +1,29 @@
+{
+  "name": "binar-finalchallange6-expresssequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegitaAndrianne/binar-finalChallange6-expressSequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegitaAndrianne/binar-finalChallange6-expressSequelize/issues"
+  },
+  "homepage": "https://github.com/RegitaAndrianne/binar-finalChallange6-expressSequelize#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "js": "^0.1.0",
+    "pg": "^8.7.3",
+    "sequelize": "^6.16.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
