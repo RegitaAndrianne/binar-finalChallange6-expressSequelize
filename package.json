@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/RegitaAndrianne/binar-finalChallange6-expressSequelize#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.2",
     "js": "^0.1.0",
